@@ -1,5 +1,5 @@
 # Python-data-structures-
-internship codes 
+internship codes 2
 Basic Python Utilities: Basic Python Utilities is a collection of simple Python scripts and functions designed to help beginners learn and practice basic programming concepts in Python. Whether you're just starting out with Python or looking to reinforce your skills, this project provides easy-to-understand examples
 Codes given below in repository are:
 1)write a python program to flatten tuple of list to tuple
